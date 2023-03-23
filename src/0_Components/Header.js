@@ -30,7 +30,7 @@ export default function Header() {
           
           {/*This would be more for the settings button */}
           <Nav>
-            <Nav.Link to='/settings' as={NavLink}>Settings</Nav.Link>
+            <Nav.Link to='/signUpUser' as={NavLink}>Account</Nav.Link>
           </Nav> 
             
         </Navbar.Collapse>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, Form, InputGroup } from 'react-bootstrap';
 
-export default function SearchBar() {
+export default function LocationSearch() {
   
   return (
     <>

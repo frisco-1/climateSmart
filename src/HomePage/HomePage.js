@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import SearchBar from '../0_Components/SearchBar';
+import LocationSearch from '../0_Components/LocationSearch';
 
 export default function HomePage() {
 
@@ -15,7 +15,7 @@ export default function HomePage() {
         </div>
 
         <div>
-          <SearchBar/>
+          <LocationSearch/>
         </div>
         
         <div>
